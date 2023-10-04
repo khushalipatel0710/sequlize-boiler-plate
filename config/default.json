@@ -1,0 +1,34 @@
+{
+  "Access_Token": "",
+  "Refresh_Token": "",
+  "AccessTokenExpirationTime": "",
+  "RefreshTokenExpirationTime": "",
+  "MaxActivationTokenExpirationDurationInWeeks": "",
+  "MaxReactivationTokenExpirationDurationInWeeks": "",
+  "api": {
+    "key": "5U8DEHBH7X5HRH0Y08ZF",
+    "secret": "5SKKT392TPCE109O690B",
+    "guestActions": []
+  },
+  "support": {
+    "helpCenterLink": "",
+    "helpCenterMailAddress": ""
+  },
+  "email": {
+    "base_url": "",
+    "host": "",
+    "port": "",
+    "ssl": false,
+    "tls": true,
+    "user": "",
+    "pass": "",
+    "from": ""
+  },
+  "paginationLimit": 10,
+  "maxPaginationLimit": 100,
+  "EXTERNAL_API": {},
+  "MOBILE_APP": {
+    "APPLE_STORE": "",
+    "PLAY_STORE": ""
+  }
+}
